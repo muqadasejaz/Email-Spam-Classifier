@@ -7,15 +7,12 @@ A machine learning-based web application that classifies emails as **Spam** or *
 ## 📝 Overview
 
 Email spam is a major issue in digital communication, often leading to security risks and lost productivity. This project provides an effective solution using machine learning and NLP
-
 to classify emails as spam or not spam.
 
 Using a Kaggle dataset, the model is trained with Logistic Regression after applying text preprocessing techniques like stopword removal and lemmatization via NLTK. Text is vectorized
-
 using CountVectorizer, and the model achieves a strong 95% accuracy.
 
 A simple Flask web app allows users to input email text, view predictions, and see model performance in real-time. This project demonstrates a complete ML workflow from training to 
-
 deployment.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -80,7 +77,8 @@ deployment.
 
   - Prediction on new emails:
 
-    E:\Muqadas\university\projects\ML\Email-Spam-Classifier\image.png
+    ![image](https://github.com/user-attachments/assets/4080f5be-a826-47ba-b742-fbc595be3221)
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
